@@ -30,7 +30,7 @@ I have a few books and courses and would like to use them:
 
 **Today's Progress**: Fo..
 
-**Thoughts:** I hope has a large volume of data, I'll discard SqlLite databasa and I'll use MariaDB.
+**Thoughts:** I hope has a large volume of data, I'll discard SqlLite databasa and I'll use MariaDB when I publish website.
 
 **Link(s) to work**
 1. [Git repo My Project "MacarronesConTomatico"](https://github.com/Dynam1co/MacarronesConTomatico)
