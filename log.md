@@ -17,7 +17,7 @@ I have a few books and courses and would like to use them:
 ### Day 0: August 27, 2019
 ##### Preparing 100DaysOfCode repo
 
-**Today's Progress**: Forked 100daysOfcode repository. Update my goals. Create repository for my project.
+**Today's Progress**: Forked 100daysOfcode repository. Update my goals. Create repository for my project. Create project with PyCharm, install Django in a virtual envirnoment and push changes to project's GitHub repository.
 
 **Thoughts:** What I see more complicated is the front-end part, in the back-end I usually manage to solve problems better or worse.
 
