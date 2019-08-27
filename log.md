@@ -1,30 +1,26 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## My Goals:
+* code everyday
+* continue learning Python + Django: My wife and I like cooking, but we have descentralization of recipes. I'll try to develop a platform like https://cookpad.com/es in Django + Python + REST, making some improvements in the database to have the possibility to analyze the information.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+## Project website https://github.com/Dynam1co/MacarronesConTomatico
+* Noobs Cook Community
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Resources:
 
-**Link to work:** [Calculator App](http://www.example.com)
+#### Python:
+I have a few books and courses and would like to use them:
+1. [Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057/ref=sr_1_1?crid=1RH3QBDHK6Y2D&keywords=python+data+science+handbook&qid=1566929081&s=gateway&sprefix=python+data%2Caps%2C215&sr=8-1) With this book I learned to work with NumPy library.
+2. [Python & Django + REST Course](https://plataforma.keepcoding.io/p/curso-online-python-django-rest) This course was my first contact with Django and I loved it.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 0: August 27, 2019
+##### Preparing 100DaysOfCode repo
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Forked 100daysOfcode repository. Update my goals. Create repository for my project.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** What I see more complicated is the front-end part, in the back-end I usually manage to solve problems better or worse.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Git repo 100DaysOfCode](https://github.com/Dynam1co/100-days-of-code)
+2. [Git repo My Project "MacarronesConTomatico"](https://github.com/Dynam1co/MacarronesConTomatico)
