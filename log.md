@@ -28,9 +28,9 @@ I have a few books and courses and would like to use them:
 ### Day 1: August 28, 2019
 ##### Preparing the database's EER diagram 
 
-**Today's Progress**: Fo..
+**Today's Progress**: I have tried several EER diagram editors for Mac OS, I have finally made the diagram with MySqlWorkbench and I have attached it to the project. I connected my Django application with new database in PostgreSQL and I deleted default database in SQLlite.
 
-**Thoughts:** I hope has a large volume of data, I'll discard SqlLite databasa and I'll use MariaDB when I publish website.
+**Thoughts:** I hope has a large volume of data, I discarded SqlLite databasa and I'm using PostgreSQL in localhost. I would have liked to make the models in python, but connecting to the new database in PostgreSQL has taken me more time than expected.
 
 **Link(s) to work**
 1. [Git repo My Project "MacarronesConTomatico"](https://github.com/Dynam1co/MacarronesConTomatico)
