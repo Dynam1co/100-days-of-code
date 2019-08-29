@@ -34,3 +34,13 @@ I have a few books and courses and would like to use them:
 
 **Link(s) to work**
 1. [Git repo My Project "MacarronesConTomatico"](https://github.com/Dynam1co/MacarronesConTomatico)
+
+### Day 2: August 29, 2019
+##### Creating models in Django project
+
+**Today's Progress**: I have created database models in a new Django app inside the project. I have also propagated the models to the PostgreSql database
+
+**Thoughts:** I need to add various recipes to the database because the next step will be create main page.
+
+**Link(s) to work**
+1. [Git repo My Project "MacarronesConTomatico"](https://github.com/Dynam1co/MacarronesConTomatico)
