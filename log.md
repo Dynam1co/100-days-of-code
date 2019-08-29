@@ -40,7 +40,7 @@ I have a few books and courses and would like to use them:
 
 **Today's Progress**: I have created database models in a new Django app inside the project. I have also propagated the models to the PostgreSql database
 
-**Thoughts:** I need to add various recipes to the database because the next step will be create main page.
+**Thoughts:** I need to add various recipes to the database because the next step will be create main page. I have had problems in my attempt to have the database in Third Normal Form (3NF) because Django not allows more than one filed as primary key, I have tryed to do using <strong>unique_together</strong> property but as the fields are foreing keys it gave me errors. I've finally decided to fix it coding when record will inserted.  
 
 **Link(s) to work**
 1. [Git repo My Project "MacarronesConTomatico"](https://github.com/Dynam1co/MacarronesConTomatico)
