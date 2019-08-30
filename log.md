@@ -44,3 +44,13 @@ I have a few books and courses and would like to use them:
 
 **Link(s) to work**
 1. [Git repo My Project "MacarronesConTomatico"](https://github.com/Dynam1co/MacarronesConTomatico)
+
+### Day 3: August 30, 2019
+##### Creating nav bar responsive in Django project
+
+**Today's Progress**: I have update database models to add some fields also I updated de [EER_Diagram.png](https://github.com/Dynam1co/MacarronesConTomatico/blob/master/EER_Diagram.png). I have also propagated the models to the PostgreSql database. Finally, I have created a responsive base navigation menu.
+
+**Thoughts:** I had some problem creating the base template, when I entered the home (which was inside the app "recipes" I could not find the htlm base file where the footer is and the navigation menu). I created the base html file in the main app because it will be common to the apps that the project contains. Tomorrow I hope to finish the real navigation menu.  
+
+**Link(s) to work**
+1. [Git repo My Project "MacarronesConTomatico"](https://github.com/Dynam1co/MacarronesConTomatico)
