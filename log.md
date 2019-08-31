@@ -60,7 +60,7 @@ I have a few books and courses and would like to use them:
 
 **Today's Progress**: I have changed nav menu colors with the final design, also I have imported bootstrap library and I finished responsive nav menu and its buttons already redirect to the corresponding pages.
 
-**Thoughts:** I thought it would be difficult to show what menu page you are in, but thanks to Django it has been very easy Tomorrow I'll create some recipes to display in main page.  
+**Thoughts:** I thought it would be difficult to show what menu page you are in, but thanks to Django it has been very easy Tomorrow I'll create some recipes to display in main page. If I have time, I will also add the fav icon
 
 **Link(s) to work**
 1. [Git repo My Project "MacarronesConTomatico"](https://github.com/Dynam1co/MacarronesConTomatico)
