@@ -54,3 +54,13 @@ I have a few books and courses and would like to use them:
 
 **Link(s) to work**
 1. [Git repo My Project "MacarronesConTomatico"](https://github.com/Dynam1co/MacarronesConTomatico)
+
+### Day 4: August 31, 2019
+##### Finished nav bar responsive in Django project. Bootstrap added. Created all pages of nav menu.
+
+**Today's Progress**: I have changed nav menu colors with the final design, also I have imported bootstrap library and I finished responsive nav menu and its buttons already redirect to the corresponding pages.
+
+**Thoughts:** I thought it would be difficult to show what menu page you are in, but thanks to Django it has been very easy Tomorrow I'll create some recipes to display in main page.  
+
+**Link(s) to work**
+1. [Git repo My Project "MacarronesConTomatico"](https://github.com/Dynam1co/MacarronesConTomatico)
