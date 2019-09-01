@@ -64,3 +64,15 @@ I have a few books and courses and would like to use them:
 
 **Link(s) to work**
 1. [Git repo My Project "MacarronesConTomatico"](https://github.com/Dynam1co/MacarronesConTomatico)
+
+### Day 5: September 1, 2019
+##### Change some models. Added Categories, recipe types. Adde one recipe with steps and ingredients.
+
+**Today's Progress**: I could not display the recipes on the main page because I had several problems with the database when inserting data from DataGrip directly. That has forced me to delete the database and recreate it.
+
+**Thoughts:** I realized that in a table the fields had not been created. After much reviewing the problem, I realized that it was a code error, but the program compiled. 
+
+Tomorrow I hope to create some recipes and display in main page. If I have time, I will also add the fav icon
+
+**Link(s) to work**
+1. [Git repo My Project "MacarronesConTomatico"](https://github.com/Dynam1co/MacarronesConTomatico)
