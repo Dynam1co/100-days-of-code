@@ -76,3 +76,13 @@ Tomorrow I hope to create some recipes and display in main page. If I have time,
 
 **Link(s) to work**
 1. [Git repo My Project "MacarronesConTomatico"](https://github.com/Dynam1co/MacarronesConTomatico)
+
+### Day 6: September 2, 2019
+##### Show recipes in main page. Fav icon added.
+
+**Today's Progress**: I added fav icon to base html this way you only have to do it once. The recipes are already shown on the main page.
+
+**Thoughts:** Tomorrow, I will show the recipes ordered from the last to the first, I'll also limit the number of recipes shown. I would also like to add some style to the recipes on the home page.
+
+**Link(s) to work**
+1. [Git repo My Project "MacarronesConTomatico"](https://github.com/Dynam1co/MacarronesConTomatico)
