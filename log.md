@@ -86,3 +86,13 @@ Tomorrow I hope to create some recipes and display in main page. If I have time,
 
 **Link(s) to work**
 1. [Git repo My Project "MacarronesConTomatico"](https://github.com/Dynam1co/MacarronesConTomatico)
+
+### Day 7: September 3, 2019
+##### Added delay in scraping. The scraped data are saved in a CSV.
+
+**Today's Progress**: Today I will change project to continue learning Scrapy and Python I have to do it if I do not want to be overwhelmed to deliver next week's practice for BootCamp.
+
+**Thoughts:** Tomorrow, I will have to download the final data, so far it was a small data set. The next step will be to create a cluster in Hive.
+
+**Link(s) to work**
+1. [Git repo My Project "Scrapy Python web El Tenedor vs dataset Airbnb"](https://github.com/Dynam1co/kc_ej_bdarchitecture_scrapy_tenedor)
