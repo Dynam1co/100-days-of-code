@@ -92,7 +92,18 @@ Tomorrow I hope to create some recipes and display in main page. If I have time,
 
 **Today's Progress**: Today I will change project to continue learning Scrapy and Python I have to do it if I do not want to be overwhelmed to deliver next week's practice for BootCamp.
 
-**Thoughts:** Tomorrow, I will have to download the final data, so far it was a small data set. The next step will be to create a cluster in Hive.
+**Thoughts:** Tomorrow, I will have to download the final data, so far it was a small data set. The next step will be to create a cluster in Hadoop.
 
 **Link(s) to work**
 1. [Git repo My Project "Scrapy Python web El Tenedor vs dataset Airbnb"](https://github.com/Dynam1co/kc_ej_bdarchitecture_scrapy_tenedor)
+
+### Day 8: September 4, 2019
+##### Solved another problem with virtualenv in Scrapy project. Waste of time creating docker with hadoop.
+
+**Today's Progress**: Today I solved a problem with virtualenv in Scrapy project, also I created a guide to show how to use a existing virtualenv in PyCharm. I tried many times to create hadoop cluster docker, unsuccessfully.
+
+**Thoughts:** Tomorrow I will continue trying to create the cluster
+
+**Link(s) to work**
+1. [Git repo My Project "Scrapy Python web El Tenedor vs dataset Airbnb"](https://github.com/Dynam1co/kc_ej_bdarchitecture_scrapy_tenedor)
+2. [Git repo Use existing virtualenv in PyCharm](https://github.com/Dynam1co/Add_existing_venv_python)
