@@ -100,7 +100,7 @@ Tomorrow I hope to create some recipes and display in main page. If I have time,
 ### Day 8: September 4, 2019
 ##### Solved another problem with virtualenv in Scrapy project. Waste of time creating docker with hadoop.
 
-**Today's Progress**: Today I solved a problem with virtualenv in Scrapy project, also I created a guide to show how to use a existing virtualenv in PyCharm. I tried many times to create hadoop cluster docker, unsuccessfully.
+**Today's Progress**: Today I solved a problem with virtualenv in Scrapy project, also I created a guide to show how to use an existing virtualenv in PyCharm. I tried many times to create hadoop cluster docker, unsuccessfully.
 
 **Thoughts:** Tomorrow I will continue trying to create the cluster
 
