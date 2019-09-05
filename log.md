@@ -107,3 +107,10 @@ Tomorrow I hope to create some recipes and display in main page. If I have time,
 **Link(s) to work**
 1. [Git repo My Project "Scrapy Python web El Tenedor vs dataset Airbnb"](https://github.com/Dynam1co/kc_ej_bdarchitecture_scrapy_tenedor)
 2. [Git repo Use existing virtualenv in PyCharm](https://github.com/Dynam1co/Add_existing_venv_python)
+
+### Day 9: September 5, 2019
+##### Ciado Docker, hello Hadoop in Google Cloud Platform.
+
+**Today's Progress**: I give up with Docker, I've wasted too much time and I haven't come to learn docker. Today I created the Hadoop cluster in Google Cloud Platform with the free account. I've been learning the use of MapReduce and I have practiced with PyHIVE.
+
+**Thoughts:** Tomorrow I have to think about the next steps for the Big Data Architecture exercise that I will submit on Sunday 15.
