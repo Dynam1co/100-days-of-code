@@ -109,11 +109,21 @@ Tomorrow I hope to create some recipes and display in main page. If I have time,
 2. [Git repo Use existing virtualenv in PyCharm](https://github.com/Dynam1co/Add_existing_venv_python)
 
 ### Day 9: September 5, 2019
-##### Ciado Docker, hello Hadoop in Google Cloud Platform.
+##### Ciao Docker, hello Hadoop in Google Cloud Platform.
 
 **Today's Progress**: I give up with Docker, I've wasted too much time and I haven't come to learn docker. Today I created the Hadoop cluster in Google Cloud Platform with the free account. I've been learning the use of MapReduce and I have practiced with PyHIVE. I created a PyCharm project to connect to Hive in Google Cloud Platform using PyHive.
 
 **Thoughts:** Tomorrow I have to think about the next steps for the Big Data Architecture exercise that I will submit on Sunday 15.
+
+**Link(s) to work**
+1. [Git repo to connect local PyCharm project to Hive in Google Cloud Platform](https://github.com/Dynam1co/kc_ej_bdarchitecture_scrapy_pyhive)
+
+### Day 10: September 6, 2019
+##### Outline exercise performed. I begin to document the PyHIVE project.
+
+**Today's Progress**: Today I have done the outline of the Big Data Architecture exercise to know at all times what I have to do. I have also started to document the project in which I use the PyHIVE library explaining its operation.
+
+**Thoughts:** Tomorrow I will finish documenting the PyHIVE project and I will go to Google Draw the complete exercise scheme.
 
 **Link(s) to work**
 1. [Git repo to connect local PyCharm project to Hive in Google Cloud Platform](https://github.com/Dynam1co/kc_ej_bdarchitecture_scrapy_pyhive)
