@@ -127,3 +127,13 @@ Tomorrow I hope to create some recipes and display in main page. If I have time,
 
 **Link(s) to work**
 1. [Git repo to connect local PyCharm project to Hive in Google Cloud Platform](https://github.com/Dynam1co/kc_ej_bdarchitecture_scrapy_pyhive)
+
+### Day 11: September 7, 2019
+##### Documentantion day.
+
+**Today's Progress**: TToday I have continued to document the project that will connect to the Hadoop cluster.
+
+**Thoughts:** I have to keep thinking if the csv will be sent to Google Storage from the Pycharm project or from the PyHive project.
+
+**Link(s) to work**
+1. [Git repo to connect local PyCharm project to Hive in Google Cloud Platform](https://github.com/Dynam1co/kc_ej_bdarchitecture_scrapy_pyhive)
