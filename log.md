@@ -131,9 +131,19 @@ Tomorrow I hope to create some recipes and display in main page. If I have time,
 ### Day 11: September 7, 2019
 ##### Documentantion day.
 
-**Today's Progress**: TToday I have continued to document the project that will connect to the Hadoop cluster.
+**Today's Progress**: Today I have continued to document the project that will connect to the Hadoop cluster.
 
 **Thoughts:** I have to keep thinking if the csv will be sent to Google Storage from the Pycharm project or from the PyHive project.
 
 **Link(s) to work**
 1. [Git repo to connect local PyCharm project to Hive in Google Cloud Platform](https://github.com/Dynam1co/kc_ej_bdarchitecture_scrapy_pyhive)
+
+### Day 12: September 8, 2019
+##### I have taken a step back.
+
+**Today's Progress**: Today I found a problem in the Scrapy project. The crawler does not work inside a loop.
+
+**Thoughts:** Tomorrow I will have to fix the crawler problem if I want to arrive on time for the delivery of the exercise.
+
+**Link(s) to work**
+1. [Git Repo Scrapy el Tenedor](https://github.com/Dynam1co/kc_ej_bdarchitecture_scrapy_tenedor)
