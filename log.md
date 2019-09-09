@@ -147,3 +147,14 @@ Tomorrow I hope to create some recipes and display in main page. If I have time,
 
 **Link(s) to work**
 1. [Git Repo Scrapy el Tenedor](https://github.com/Dynam1co/kc_ej_bdarchitecture_scrapy_tenedor)
+
+### Day 13: September 9, 2019
+##### Problem solved. I continue with the exercise.
+
+**Today's Progress**: Today I solved a problem in the Scrapy project. The crawler runs correctly. Now I want to create a menu to allow to use scrapy or upload files to Google Storage.
+
+**Thoughts:** Tomorrow ....
+
+**Link(s) to work**
+1. [Git Repo Scrapy el Tenedor](https://github.com/Dynam1co/kc_ej_bdarchitecture_scrapy_tenedor)
+
