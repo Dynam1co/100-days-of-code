@@ -158,3 +158,13 @@ Tomorrow I hope to create some recipes and display in main page. If I have time,
 **Link(s) to work**
 1. [Git Repo Scrapy el Tenedor](https://github.com/Dynam1co/kc_ej_bdarchitecture_scrapy_tenedor)
 
+### Day 14: September 10, 2019
+##### Diagram created. Main repository created.
+
+**Today's Progress**: Today I created the exercise diagram and main repository in Git Hub for present it.
+
+**Thoughts:** Tomorrow I will made a change in scrapy project to generate Airbnb csv without irrelevant data.
+
+**Link(s) to work**
+1. [Git Repo Main project exercise](https://github.com/Dynam1co/kc_ej_bdarchitecture)
+
