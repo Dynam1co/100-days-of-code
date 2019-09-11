@@ -168,3 +168,13 @@ Tomorrow I hope to create some recipes and display in main page. If I have time,
 **Link(s) to work**
 1. [Git Repo Main project exercise](https://github.com/Dynam1co/kc_ej_bdarchitecture)
 
+### Day 15: September 11, 2019
+##### Finished documentation in main project.
+
+**Today's Progress**: Today I finished the documentation of main repository that explains how to I made all parts of the exercise.
+
+**Thoughts:** Tomorrow I will record a video to show how it works what I have done.
+
+**Link(s) to work**
+1. [Git Repo Main project exercise](https://github.com/Dynam1co/kc_ej_bdarchitecture)
+
