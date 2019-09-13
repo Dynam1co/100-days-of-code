@@ -178,3 +178,13 @@ Tomorrow I hope to create some recipes and display in main page. If I have time,
 **Link(s) to work**
 1. [Git Repo Main project exercise](https://github.com/Dynam1co/kc_ej_bdarchitecture)
 
+### Day 16: September 12, 2019
+##### Installed Django in PyHive project.
+
+**Today's Progress**: Because of work and floods today I could only install Django.
+
+**Thoughts:** This weekend I have to work hard to arrive on time for the deadline.
+
+**Link(s) to work**
+1. [Git Repo PyHive project](https://github.com/Dynam1co/kc_ej_bdarchitecture_scrapy_pyhive)
+
