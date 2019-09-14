@@ -198,3 +198,13 @@ Tomorrow I hope to create some recipes and display in main page. If I have time,
 **Link(s) to work**
 1. [Git Repo Scrapy project](https://github.com/Dynam1co/kc_ej_bdarchitecture_scrapy_tenedor)
 
+### Day 18: September 14, 2019
+##### I discovered git revert command
+
+**Today's Progress**: I realized that using Django was not necessary, but I already had it installed in the project, so I used the **git revert** command to undo some commits.
+
+**Thoughts:** The most lazy part is going to be the demo video edition.
+
+**Link(s) to work**
+1. [Git Repo PyHive project](https://github.com/Dynam1co/kc_ej_bdarchitecture_scrapy_pyhive)
+
