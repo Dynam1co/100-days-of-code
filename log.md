@@ -188,3 +188,13 @@ Tomorrow I hope to create some recipes and display in main page. If I have time,
 **Link(s) to work**
 1. [Git Repo PyHive project](https://github.com/Dynam1co/kc_ej_bdarchitecture_scrapy_pyhive)
 
+### Day 17: September 13, 2019
+##### I recorded video demostration of Scrapy project.
+
+**Today's Progress**: As I am using the free Google Cloud option for the Hadoop cluster, I have to remove it every time I finish using it so that I don't use credit. Tomorrow I will take the opportunity to finish the PyHive part and not have to recreate another cluster.
+
+**Thoughts:** The most lazy part is going to be the demo video edition.
+
+**Link(s) to work**
+1. [Git Repo Scrapy project](https://github.com/Dynam1co/kc_ej_bdarchitecture_scrapy_tenedor)
+
