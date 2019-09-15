@@ -201,10 +201,20 @@ Tomorrow I hope to create some recipes and display in main page. If I have time,
 ### Day 18: September 14, 2019
 ##### I discovered git revert command
 
-**Today's Progress**: I realized that using Django was not necessary, but I already had it installed in the project, so I used the **git revert** command to undo some commits.
+**Today's Progress**: I realized that using Django was not necessary, but I already had it installed in the project, so I used the **git revert** command to undo some commits. I have finished the data visualization part and the communication with Hive.
 
-**Thoughts:** The most lazy part is going to be the demo video edition.
+**Thoughts:** I have already recorded the videos on how the exercise works. Tomorrow I will edit them and upload youtube to attach them to the main repository.
 
 **Link(s) to work**
 1. [Git Repo PyHive project](https://github.com/Dynam1co/kc_ej_bdarchitecture_scrapy_pyhive)
+
+### Day 19: September 15, 2019
+##### Video editing and exercise documentation
+
+**Today's Progress**: I edited video demonstration of the exercise and I completed the documentation.
+
+**Thoughts:** Tomorrow I can return to work on my side project.
+
+**Link(s) to work**
+1. [Git Repo Main project](https://github.com/Dynam1co/kc_ej_bdarchitecture)
 
