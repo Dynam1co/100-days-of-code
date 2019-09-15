@@ -217,4 +217,5 @@ Tomorrow I hope to create some recipes and display in main page. If I have time,
 
 **Link(s) to work**
 1. [Git Repo Main project](https://github.com/Dynam1co/kc_ej_bdarchitecture)
+2. [Youtube Video](https://www.youtube.com/watch?v=3wt1vzeaNXQ)
 
