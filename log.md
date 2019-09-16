@@ -219,3 +219,13 @@ Tomorrow I hope to create some recipes and display in main page. If I have time,
 1. [Git Repo Main project](https://github.com/Dynam1co/kc_ej_bdarchitecture)
 2. [Youtube Video](https://www.youtube.com/watch?v=3wt1vzeaNXQ)
 
+### Day 20: September 16, 2019
+##### Continue with my side project. Learning bootstrap.
+
+**Today's Progress**: I changed main page, now I sort recipes by creation date and only shows last 25 recipes. I'm creating cards in bootstrap to show recipes in main page.
+
+**Thoughts:** Tomorrow I will continue with bootstrap cards.
+
+**Link(s) to work**
+1. [Git Repo Macarrones con tomatico](https://github.com/Dynam1co/MacarronesConTomatico)
+
