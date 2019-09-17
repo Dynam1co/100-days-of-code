@@ -229,3 +229,13 @@ Tomorrow I hope to create some recipes and display in main page. If I have time,
 **Link(s) to work**
 1. [Git Repo Macarrones con tomatico](https://github.com/Dynam1co/MacarronesConTomatico)
 
+### Day 21: September 17, 2019
+##### Change css class in buttons in bootstrap. Learning algebra for Big Data.
+
+**Today's Progress**: Modified css class of recipe card button in bootstrap. Learning algebra of propositions with python.
+
+**Thoughts:** Tomorrow I will continue with bootstrap cards and login page.
+
+**Link(s) to work**
+1. [Git Repo Macarrones con tomatico](https://github.com/Dynam1co/MacarronesConTomatico)
+
