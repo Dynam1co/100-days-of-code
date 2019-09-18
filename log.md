@@ -239,3 +239,13 @@ Tomorrow I hope to create some recipes and display in main page. If I have time,
 **Link(s) to work**
 1. [Git Repo Macarrones con tomatico](https://github.com/Dynam1co/MacarronesConTomatico)
 
+### Day 22: September 18, 2019
+##### Start with algebra for big data exercise. Exercise 1 Collatz Conjecture
+
+**Today's Progress**: I finished the first part of algebra exercise for Big Data & Machine Learning BootCamp.
+
+**Thoughts:** Tomorrow I will continue with the exercise to finish it as soon as possible
+
+**Link(s) to work**
+1. [Git Repo Algebra for Big Data exercise](https://github.com/Dynam1co/kc_ej_algebra_big_data)
+
