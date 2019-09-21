@@ -259,3 +259,23 @@ Tomorrow I hope to create some recipes and display in main page. If I have time,
 **Link(s) to work**
 1. [Git Repo Algebra for Big Data exercise](https://github.com/Dynam1co/kc_ej_algebra_big_data)
 
+### Day 24: September 20, 2019
+##### Continue with algebra for big data exercise. Exercise 3 the perfect secret (vector message encryption).
+
+**Today's Progress**: I finished the third part of algebra exercise for Big Data & Machine Learning BootCamp.
+
+**Thoughts:** Tomorrow I would like to continue with the exercise but I have to record a video for a selection process.
+
+**Link(s) to work**
+1. [Git Repo Algebra for Big Data exercise](https://github.com/Dynam1co/kc_ej_algebra_big_data)
+
+### Day 25: September 21, 2019
+##### Continue with algebra for big data exercise. Exercise 4 cross product of vectors.
+
+**Today's Progress**: I finished the fourth part of algebra exercise for Big Data & Machine Learning BootCamp.
+
+**Thoughts:** Tomorrow I should finish the video for the interview, I hope to have time to continue with the exercise.
+
+**Link(s) to work**
+1. [Git Repo Algebra for Big Data exercise](https://github.com/Dynam1co/kc_ej_algebra_big_data)
+
