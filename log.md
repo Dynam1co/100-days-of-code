@@ -288,3 +288,13 @@ Tomorrow I hope to create some recipes and display in main page. If I have time,
 
 **Link(s) to work**
 1. [Git Repo Algebra for Big Data exercise](https://github.com/Dynam1co/kc_ej_algebra_big_data)
+
+### Day 27: September 24, 2019
+##### At last I finished algebra for big data exercise!!!
+
+**Today's Progress**: I finished the seventh part of algebra exercise for Big Data & Machine Learning BootCamp. I have made algorithms for shorter paths in graphs.
+
+**Thoughts:** It has been very difficult. After 10 hours I finished copying the answer. I am a little discouraged by that.
+
+**Link(s) to work**
+1. [Git Repo Algebra for Big Data exercise](https://github.com/Dynam1co/kc_ej_algebra_big_data)
