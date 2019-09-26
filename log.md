@@ -298,3 +298,23 @@ Tomorrow I hope to create some recipes and display in main page. If I have time,
 
 **Link(s) to work**
 1. [Git Repo Algebra for Big Data exercise](https://github.com/Dynam1co/kc_ej_algebra_big_data)
+
+### Day 28: September 25, 2019
+##### Preparing next module, Big Data processing. Learning Scala
+
+**Today's Progress**: Before the next module starts next week, I am learning Scala because it will be necessary for the final exercise.
+
+**Thoughts:** Scala is more difficult than Python, but I love this language.
+
+**Link(s) to work**
+1. No commits yet.
+
+### Day 29: September 26, 2019
+##### Continue learning Scala
+
+**Today's Progress**: I already know the difference between singleton objects and classes. I am already using IntelliJ to code.
+
+**Thoughts:** I look forward to knowing Scala in depth.
+
+**Link(s) to work**
+1. No commits yet.
