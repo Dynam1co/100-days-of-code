@@ -318,3 +318,33 @@ Tomorrow I hope to create some recipes and display in main page. If I have time,
 
 **Link(s) to work**
 1. No commits yet.
+
+### Day 30: September 27, 2019
+##### Continue learning Scala
+
+**Today's Progress**: Today I have been practicing with control structures and collections.
+
+**Thoughts:** I was curious that there is no such thing as a "switch case" in Scala, but I see that it can be done with a "match".
+
+**Link(s) to work**
+1. No commits yet.
+
+### Day 31: September 28, 2019
+##### Continue learning Scala
+
+**Today's Progress**: Today I have been practicing Lambda expressions.
+
+**Thoughts:** I need to do a lot of exercises to understand correctly functional programming.
+
+**Link(s) to work**
+1. No commits yet.
+
+### Day 32: September 30, 2019
+##### Continue learning Scala
+
+**Today's Progress**: Today I have been practicing with Set y SortedSet and Maps.
+
+**Thoughts:** The teacher sent me exercises with spark. That will be the next task..
+
+**Link(s) to work**
+1. No commits yet.
