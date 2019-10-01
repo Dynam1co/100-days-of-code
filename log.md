@@ -344,7 +344,17 @@ Tomorrow I hope to create some recipes and display in main page. If I have time,
 
 **Today's Progress**: Today I have been practicing with Set y SortedSet and Maps.
 
-**Thoughts:** The teacher sent me exercises with spark. That will be the next task..
+**Thoughts:** The teacher sent me exercises with spark. That will be the next task.
 
 **Link(s) to work**
 1. No commits yet.
+
+### Day 33: October 01, 2019
+##### Continue learning Scala
+
+**Today's Progress**: Today I created a Intellij project with sbt and I learned about Spark versions and Scala versions because I had some problems when I executed app.
+
+**Thoughts:** In this project I will play with the Twitter api and I would like to try Cassandra to save information.
+
+**Link(s) to work**
+1. [Git Repo Things with Scala and Twitter](https://github.com/Dynam1co/twitter_in_scala)
