@@ -358,3 +358,13 @@ Tomorrow I hope to create some recipes and display in main page. If I have time,
 
 **Link(s) to work**
 1. [Git Repo Things with Scala and Twitter](https://github.com/Dynam1co/twitter_in_scala)
+
+### Day 34: October 02, 2019
+##### Continue learning Scala
+
+**Today's Progress**: I have managed to use Spark Streaming and I created Twitter app. But impossible to download tweets.
+
+**Thoughts:** I am not able to use Spark Streaming to download tweets. I'm thinking of using Python with PySpark and waiting to finish the Scala module in the BootCamp to continue.
+
+**Link(s) to work**
+1. [Git Repo Things with Scala and Twitter](https://github.com/Dynam1co/twitter_in_scala)
