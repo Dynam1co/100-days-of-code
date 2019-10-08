@@ -368,3 +368,53 @@ Tomorrow I hope to create some recipes and display in main page. If I have time,
 
 **Link(s) to work**
 1. [Git Repo Things with Scala and Twitter](https://github.com/Dynam1co/twitter_in_scala)
+
+### Day 35: October 03, 2019
+##### Change Spark Streaming from Scala to Python
+
+**Today's Progress**: I am not able to use Spark Streaming to download tweets, I started to do the same in Python
+
+**Thoughts:** Trying to download tweets and send them to another PyCharm project with Spark It has given me inexplicable errors.
+
+**Link(s) to work**
+1. No commits yet.
+
+### Day 36: October 04, 2019
+##### Continue learning Scala in class
+
+**Today's Progress**: I have had the first Big Data processing class and we have made an introduction to Scala.
+
+**Thoughts:** This weekend I will attend the PyConES 2019 in Alicante.
+
+**Link(s) to work**
+1. No commits yet.
+
+### Day 37: October 05, 2019
+##### PyConES 2019 Day 1
+
+**Today's Progress**: I have attended a workshop where we have learned to make regressions with Python about rental prices.
+
+**Thoughts:** Tomorrow there are no workshops, just talks.
+
+**Link(s) to work**
+1. No commits yet.
+
+### Day 38: October 06, 2019
+##### PyConES 2019 Day 2
+
+**Today's Progress**: I have attended a talk where we have used machine learning oriented to cybersecurity. Another talk where we learned how Apache Airflow works to schedule tasks. Another about obfuscation of files.
+
+**Thoughts:** Python is incredible!!!
+
+**Link(s) to work**
+1. No commits yet.
+
+### Day 39: October 07, 2019
+##### Learning Scala in Big Data Processing class
+
+**Today's Progress**: Today we have learned object-oriented programming in Scala and also to use Spark to count words in a very long text.
+
+**Thoughts:** I must to downgrade to java 8 because some Spark functions don't work correctly. With java 8, the problems that I have had have been solved and I think also those that I had the other day when downloading tweets.
+
+**Link(s) to work**
+1. No commits yet.
