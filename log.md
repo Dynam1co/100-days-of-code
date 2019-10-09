@@ -418,3 +418,23 @@ Tomorrow I hope to create some recipes and display in main page. If I have time,
 
 **Link(s) to work**
 1. No commits yet.
+
+### Day 40: October 08, 2019
+##### Using Spark with Scala
+
+**Today's Progress**: Today I learned the difference between Scala List and Spark RDD. I have loaded data from local to Spark RDD and I have downloaded results to Scala in local.
+
+**Thoughts:** Tomorrow I woluld like to play with Spark Streaming and Twitter.
+
+**Link(s) to work**
+1. No commits yet.
+
+### Day 41: October 09, 2019
+##### Playing with twitter streaming
+
+**Today's Progress**: I already have a project in Scala that downloads Tweets in streaming.
+
+**Thoughts:** Tomorrow I will play with Twitter Streaming project to understand how it works.
+
+**Link(s) to work**
+1. No commits yet.
